@@ -1,0 +1,8 @@
+header#main-header {
+  background: url(http://http://www.britainexpress.com/images/attractions/editor/Durham-Cathedral-7107.jpg) center center;
+  padding: 5%; 
+  line-height: 1.2;
+  color: crimson;
+  position: relative;
+  z-index: 0;
+}
