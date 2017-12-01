@@ -26,7 +26,12 @@ h1{
 
 div#carouselExampleSlidesOnly
  {
-margin-left: 450px
+margin-left: 500px
+}
+
+
+.weather_widget{
+  margin-top: -330px
 }
 
 .card{
