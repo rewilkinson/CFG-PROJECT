@@ -1,6 +1,6 @@
 
 body {
-    background-image:url(burger.gif);
+    background-image:url(wallpaper.jpg);
     background-repeat:no-repeat;
     background-size: cover;
     background-position: center;
@@ -19,8 +19,8 @@ body {
 
 h1{
 font-size:80px;
-	background-color:#ebebe0;
-	color:white;
+	
+	color:black;
 
 text-align:center;
 
