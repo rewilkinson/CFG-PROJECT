@@ -18,7 +18,7 @@ h1{
   font-family:'Georgia'
   color:white;
     text-align: center;
-    text-decoration-color: white;
+
 
 
 }
@@ -30,7 +30,7 @@ margin-left: 450px
 }
 
 .card{
-  background-color: red;
+  background-color: blue;
 
 }
 .card2{
@@ -41,7 +41,23 @@ margin-left: 450px
     margin-left: 335px;
 }
 
+.card3
+{
+ background-color: pink;
+  margin-top: -400px;
+    margin-bottom: 100px;
+    margin-right: 0px;
+    margin-left: 335px;
 
 
+}
 
+.card4
+{
+ background-color: green;
+  margin-top: -400px;
+    margin-bottom: 100px;
+    margin-right: 0px;
+    margin-left: 335px;
+  }
 
