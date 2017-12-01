@@ -1,0 +1,52 @@
+
+body {
+    background-image:url(burger.gif);
+    background-repeat:no-repeat;
+    background-size: cover;
+    background-position: center;
+    background-opacity:15
+
+}
+
+
+
+
+
+
+
+
+
+
+h1{
+font-size:80px;
+	background-color:#ebebe0;
+	color:white;
+
+text-align:center;
+
+
+
+}
+
+
+
+.card1 {
+  width: 450px;
+  height: 610px;
+  background: lightblue;
+  }
+
+
+.card2 {
+  width: 450px;
+margin-left: 710px
+height:800px;
+background: lightblue;
+
+margin-top: -610px;
+    margin-bottom: 100px;
+    margin-right: 0px;
+    margin-left: 335px;
+
+}
+
