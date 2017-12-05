@@ -1,0 +1,54 @@
+
+body {
+    background-image:url(wallpaper.jpg);
+    background-repeat:no-repeat;
+    background-size: cover;
+    background-position: center;
+    background-opacity:15
+
+}
+
+
+
+
+
+
+
+h1{
+  font-size:80px;
+  background-color: #ebebe0;
+ font-variant-position: center
+  font-family:'Georgia'
+  color:white;
+    text-align: center;
+
+
+
+}
+
+
+.card1{
+  background-color: pink;
+
+}
+.card2{
+  background-color: white;
+  margin-top: -610px;
+    margin-bottom: 100px;
+    margin-right: 0px;
+    margin-left: 325px;
+}
+
+.card3
+{
+ background-color: pink;
+  margin-top: -680px;
+    margin-bottom: 200px;
+    margin-right: 0px;
+    margin-left: 650px;
+
+
+}
+
+
+
